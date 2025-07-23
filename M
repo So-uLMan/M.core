@@ -1,0 +1,8 @@
+M.Core/
+├── README.md
+├── LICENSE.md
+├── setup.py
+├── mcore/
+│   ├── __init__.py
+│   └── core.py
+└── example.py

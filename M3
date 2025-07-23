@@ -1,0 +1,10 @@
+---
+
+## 📄 3. ملف LICENSE.md  
+(اختر ترخيصاً مفتوح المصدر مثل MIT أو Apache 2.0. يمكنك استخدام MIT:)  
+```text
+MIT License
+
+Copyright (c) 2025 مصطفى
+
+Permission is hereby granted, free of charge...
